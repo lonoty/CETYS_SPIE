@@ -1,0 +1,10 @@
+int16 mapa
+float32 xi
+float32 yi
+float32 xf
+float32 yf
+---
+float32[] pointsx
+float32[] pointsy
+float32[] acciones1
+float32[] acciones2
